@@ -80,6 +80,9 @@
     nav {
       flex-direction: row;
     }
+    ul , li {
+        width: 50%;
+    }
   
     .nav-items {
       display: flex;
@@ -89,3 +92,8 @@
       display: none;
     }
   }
+
+
+
+
+
